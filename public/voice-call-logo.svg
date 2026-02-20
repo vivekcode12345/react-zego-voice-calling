@@ -1,0 +1,19 @@
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="28" y1="20" x2="228" y2="236" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1D4ED8"/>
+      <stop offset="1" stop-color="#0EA5E9"/>
+    </linearGradient>
+    <linearGradient id="phone" x1="95" y1="72" x2="161" y2="186" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#E2E8F0"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="16" y="16" width="224" height="224" rx="56" fill="url(#bg)"/>
+
+  <path d="M157.6 172.7C137 164.6 119.9 147.2 111.8 126.6C110.7 123.8 111.4 120.5 113.6 118.4L125.4 106.5C127.7 104.2 128.4 100.8 127.1 97.9L116.8 74.3C115.1 70.4 110.5 68.8 106.8 70.8L90.8 79.4C86.7 81.6 84.4 86.1 84.8 90.8C87.5 123.3 101.8 152.8 125.2 176.2C148.6 199.6 178.1 213.9 210.6 216.6C215.3 217 219.8 214.7 222 210.6L230.6 194.6C232.6 190.9 231 186.3 227.1 184.6L203.5 174.3C200.6 173 197.2 173.7 194.9 176L183 187.8C180.9 190 177.6 190.7 174.8 189.6C168.9 187.3 163.2 184.7 157.6 172.7Z" fill="url(#phone)"/>
+
+  <path d="M173 67C193.4 72.4 209.6 88.6 215 109" stroke="#DBEAFE" stroke-width="12" stroke-linecap="round"/>
+  <path d="M164 93C176.7 96.8 186.2 106.3 190 119" stroke="#EFF6FF" stroke-width="10" stroke-linecap="round"/>
+</svg>
